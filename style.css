@@ -1042,10 +1042,10 @@ background-position: center;
         cursor: pointer;
     }
     #feature{
-        padding: 10vw 10vw;
+        padding: 10vw 8vw;
     }
     .fe-box{
-        width: 150px;
+        width: 140px;
         height: 200px;
     }
     .fe-box h6{
